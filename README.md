@@ -10,7 +10,7 @@ I used ImageRecognitionModelMaker.mlmodel which I found online, AI is not mine b
 
 ![](https://media.giphy.com/media/jEJ5theayezQCwokqp/giphy.gif)
 
-I made this app using Swift and UIKIt, I did not include lots of files here, because it contained my API key.
+I made this app using Swift and UIKIt, this is very basic app i just did parsing from ML.
 
 ## Basic info about me
 
